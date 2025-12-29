@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "GO!!!",
+  "base_artist": "FLOW",
+  "createdAt": "2025-12-29T11:54:51.618446Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker feat. Julie Bergan",
+      "has_synced": true,
+      "path": "select/01_I_Don't_Wanna_Go_Alan_Walker_feat._Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Don't Wanna Go",
+      "artist": "Alan Walker;Julie Bergan",
+      "has_synced": true,
+      "path": "select/02_I_Don't_Wanna_Go_Alan_Walker;Julie_Bergan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Should Probably Go To Bed",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/03_I_Should_Probably_Go_To_Bed_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let You Go",
+      "artist": "Savoy",
+      "has_synced": true,
+      "path": "select/04_Let_You_Go_Savoy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Longneck Way To Go",
+      "artist": "Midland feat. Jon Pardi",
+      "has_synced": true,
+      "path": "select/05_Longneck_Way_To_Go_Midland_feat._Jon_Pardi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Longneck Way To Go",
+      "artist": "Midland",
+      "has_synced": true,
+      "path": "select/06_Longneck_Way_To_Go_Midland.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Six Pack To Go",
+      "artist": "Leon Russell",
+      "has_synced": false,
+      "path": "select/07_A_Six_Pack_To_Go_Leon_Russell.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "After The Lights Go Out",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/08_After_The_Lights_Go_Out_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "After The Lights Go Out (Album Version)",
+      "artist": "Ricky Van Shelton",
+      "has_synced": true,
+      "path": "select/09_After_The_Lights_Go_Out_(Album_Version)_Ricky_Van_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Days Go By",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/10_Days_Go_By_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Didn't Expect It To Go Down This Way",
+      "artist": "K.T. Oslin",
+      "has_synced": true,
+      "path": "select/11_Didn't_Expect_It_To_Go_Down_This_Way_K.T._Oslin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Do You Wanna Go To Heaven",
+      "artist": "T.G. Sheppard",
+      "has_synced": true,
+      "path": "select/12_Do_You_Wanna_Go_To_Heaven_T.G._Sheppard.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Do You Wanna Go To Heaven",
+      "artist": "TG Sheppard",
+      "has_synced": true,
+      "path": "select/13_Do_You_Wanna_Go_To_Heaven_TG_Sheppard.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Go near the Water",
+      "artist": "Sammy Kershaw",
+      "has_synced": true,
+      "path": "select/14_Don't_Go_near_the_Water_Sammy_Kershaw.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Drunk (And I Don't Wanna Go Home)",
+      "artist": "Elle King",
+      "has_synced": true,
+      "path": "select/15_Drunk_(And_I_Don't_Wanna_Go_Home)_Elle_King.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GO!!!",
+      "artist": "FLOW",
+      "has_synced": false,
+      "path": "select/pl_01_GO!!!_FLOW.txt"
+    }
+  ]
+}
